@@ -8,9 +8,7 @@ We also explain why we do not transform the data, we check for problems with the
 
 Requirements.
 #install packages
-
 install.packages(c("StanHeaders","rstan"),type="source")
-
 all.packages(c("coda","mvtnorm","devtools","dagitty"))
 library(devtools)
 devtools::install_github("rmcelreath/rethinking")
