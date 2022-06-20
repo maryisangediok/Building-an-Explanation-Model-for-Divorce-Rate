@@ -1,4 +1,4 @@
-# Applied-Linear-Models-in-R
+# Building an Explanation Model for Divorce Rate Using R
 
 Problem statement.
 
