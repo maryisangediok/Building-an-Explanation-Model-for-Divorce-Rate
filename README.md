@@ -2,7 +2,7 @@
 
 Problem statement.
 
-This project focuses on building a simple multivariate linear model. The purpose of the analysis is explanation.
+This project focuses on building a simple multiple linear model. The purpose of the analysis is explanation.
 
 
 We review the dataset and some initial data analysis, model selection and validation, and detailed diagnostics.
